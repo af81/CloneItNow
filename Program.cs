@@ -3,3 +3,4 @@ Console.WriteLine();
 Console.WriteLine("Mit diesem Programm üben wir die Zusammenarbeit auf GitHub.");
 Console.WriteLine("Gabor Karolyi");
 Console.WriteLine("Leandro Sabotic");
+Console.WriteLine("Yanis Boog");
