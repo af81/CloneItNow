@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "RaZyzJ/oA5o=",
   "success": true,
   "projectFilePath": "C:\\M319\\CloneItNow\\CloneItNow.csproj",
+=======
+  "dgSpecHash": "XaUC8W2m2gg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cristian\\CloneItNow\\CloneItNow.csproj",
+>>>>>>> 62486ec13a47662ca6a45303d9f489260ef642bf
   "expectedPackageFiles": [],
   "logs": []
 }
