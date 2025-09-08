@@ -1,26 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "/Users/andreasfischer/Education/M319/csharp-apps/CloneItNow/CloneItNow.csproj": {}
+    "C:\\Users\\Tatjana\\CloneItNow\\CloneItNow.csproj": {}
   },
   "projects": {
-    "/Users/andreasfischer/Education/M319/csharp-apps/CloneItNow/CloneItNow.csproj": {
+    "C:\\Users\\Tatjana\\CloneItNow\\CloneItNow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/andreasfischer/Education/M319/csharp-apps/CloneItNow/CloneItNow.csproj",
+        "projectUniqueName": "C:\\Users\\Tatjana\\CloneItNow\\CloneItNow.csproj",
         "projectName": "CloneItNow",
-        "projectPath": "/Users/andreasfischer/Education/M319/csharp-apps/CloneItNow/CloneItNow.csproj",
-        "packagesPath": "/Users/andreasfischer/.nuget/packages/",
-        "outputPath": "/Users/andreasfischer/Education/M319/csharp-apps/CloneItNow/obj/",
+        "projectPath": "C:\\Users\\Tatjana\\CloneItNow\\CloneItNow.csproj",
+        "packagesPath": "C:\\Users\\Tatjana\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Tatjana\\CloneItNow\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/andreasfischer/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Tatjana\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.413/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
