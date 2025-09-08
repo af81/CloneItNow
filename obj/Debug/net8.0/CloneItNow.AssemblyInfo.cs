@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CloneItNow")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+026e2f6deb07f14eaaa0d739b8082db7cc46f555")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77421c9345ce50a9276befc5f54ccabc0a5c9f22")]
 [assembly: System.Reflection.AssemblyProductAttribute("CloneItNow")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CloneItNow")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

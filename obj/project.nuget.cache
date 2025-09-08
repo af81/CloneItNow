@@ -1,14 +1,18 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "RaZyzJ/oA5o=",
   "success": true,
   "projectFilePath": "C:\\M319\\CloneItNow\\CloneItNow.csproj",
-=======
-  "dgSpecHash": "XaUC8W2m2gg=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Cristian\\CloneItNow\\CloneItNow.csproj",
->>>>>>> 62486ec13a47662ca6a45303d9f489260ef642bf
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem beim Lesen der Cachedatei \"C:\\M319\\CloneItNow\\obj\\project.nuget.cache\": '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\M319\\CloneItNow\\CloneItNow.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\M319\\CloneItNow\\CloneItNow.csproj",
+      "targetGraphs": []
+    }
+  ]
 }
