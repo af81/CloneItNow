@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\itssq\\CloneItNow\\CloneItNow.csproj": {}
+    "C:\\Users\\itssq\\CloneItNow\\CloneItNow\\CloneItNow.csproj": {}
   },
   "projects": {
-    "C:\\Users\\itssq\\CloneItNow\\CloneItNow.csproj": {
+    "C:\\Users\\itssq\\CloneItNow\\CloneItNow\\CloneItNow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\itssq\\CloneItNow\\CloneItNow.csproj",
+        "projectUniqueName": "C:\\Users\\itssq\\CloneItNow\\CloneItNow\\CloneItNow.csproj",
         "projectName": "CloneItNow",
-        "projectPath": "C:\\Users\\itssq\\CloneItNow\\CloneItNow.csproj",
+        "projectPath": "C:\\Users\\itssq\\CloneItNow\\CloneItNow\\CloneItNow.csproj",
         "packagesPath": "C:\\Users\\itssq\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\itssq\\CloneItNow\\obj\\",
+        "outputPath": "C:\\Users\\itssq\\CloneItNow\\CloneItNow\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\itssq\\AppData\\Roaming\\NuGet\\NuGet.Config"
