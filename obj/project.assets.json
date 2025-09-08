@@ -8,25 +8,26 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\itssq\\.nuget\\packages\\": {}
+    "C:\\Users\\YaBo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\itssq\\CloneItNow\\CloneItNow\\CloneItNow.csproj",
+      "projectUniqueName": "C:\\Users\\YaBo\\OneDrive - Leuchter IT Solutions AG\\Desktop\\BBZW\\Modul 319\\CloneItNow\\CloneItNow.csproj",
       "projectName": "CloneItNow",
-      "projectPath": "C:\\Users\\itssq\\CloneItNow\\CloneItNow\\CloneItNow.csproj",
-      "packagesPath": "C:\\Users\\itssq\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\itssq\\CloneItNow\\CloneItNow\\obj\\",
+      "projectPath": "C:\\Users\\YaBo\\OneDrive - Leuchter IT Solutions AG\\Desktop\\BBZW\\Modul 319\\CloneItNow\\CloneItNow.csproj",
+      "packagesPath": "C:\\Users\\YaBo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\YaBo\\OneDrive - Leuchter IT Solutions AG\\Desktop\\BBZW\\Modul 319\\CloneItNow\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\itssq\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\YaBo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/docugate/_packaging/Docugate/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
@@ -43,7 +44,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -64,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.413/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
